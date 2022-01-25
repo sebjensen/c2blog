@@ -3,12 +3,43 @@
     <title>Seb Jensen - C2B</title>
     <link href="https://sebjensen.github.io/c2blog/feed.xml" rel="self" />
     <link href="https://sebjensen.github.io/c2blog" />
-    <updated>2022-01-25T20:42:59+00:00</updated>
+    <updated>2022-01-25T21:04:07+00:00</updated>
     <author>
         <name>Seb Jensen</name>
     </author>
     <id>https://sebjensen.github.io/c2blog</id>
 
+    <entry>
+        <title>Writing, editing text / Hyperlinks</title>
+        <author>
+            <name>Seb Jensen</name>
+        </author>
+        <link href="https://sebjensen.github.io/c2blog/writing-editing-text-hyperlinks.html"/>
+        <id>https://sebjensen.github.io/c2blog/writing-editing-text-hyperlinks.html</id>
+            <category term="Production"/>
+            <category term="Esports Kiosk"/>
+
+        <updated>2022-01-25T21:04:07+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Introduction Text Text Strengths included It would be even better if I My short-term goal, specifically for the next session, My long-term focus remains
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Introduction</p>
+<h2>Writing, editing text</h2>
+<p>Text</p>
+<h2>Hyperlinks</h2>
+<p>Text</p>
+<h2>Perspective project approach</h2>
+<p><strong>Strengths </strong>included</p>
+<p>It would be <strong>even better if </strong>I</p>
+<p>My <strong>short-term goal</strong>, specifically for the next session,</p>
+<p>My <strong>long-term focus </strong>remains</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wireframe / Visualisation diagram</title>
         <author>
