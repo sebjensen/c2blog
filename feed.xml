@@ -3,43 +3,12 @@
     <title>Seb Jensen - C2B</title>
     <link href="https://sebjensen.github.io/c2blog/feed.xml" rel="self" />
     <link href="https://sebjensen.github.io/c2blog" />
-    <updated>2022-01-26T16:31:58+00:00</updated>
+    <updated>2022-01-27T22:06:40+00:00</updated>
     <author>
         <name>Seb Jensen</name>
     </author>
     <id>https://sebjensen.github.io/c2blog</id>
 
-    <entry>
-        <title>Writing, editing text / Hyperlinks</title>
-        <author>
-            <name>Seb Jensen</name>
-        </author>
-        <link href="https://sebjensen.github.io/c2blog/writing-editing-text-hyperlinks.html"/>
-        <id>https://sebjensen.github.io/c2blog/writing-editing-text-hyperlinks.html</id>
-            <category term="Production"/>
-            <category term="Esports Kiosk"/>
-
-        <updated>2022-01-25T21:04:07+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Introduction Text Text Strengths included It would be even better if I My short-term goal, specifically for the next session, My long-term focus remains
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Introduction</p>
-<h2>Writing, editing text</h2>
-<p>Text</p>
-<h2>Hyperlinks</h2>
-<p>Text</p>
-<h2>Perspective project approach</h2>
-<p><strong>Strengths </strong>included</p>
-<p>It would be <strong>even better if </strong>I</p>
-<p>My <strong>short-term goal</strong>, specifically for the next session,</p>
-<p>My <strong>long-term focus </strong>remains</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Wireframe / Visualisation diagram</title>
         <author>
@@ -50,7 +19,7 @@
             <category term="Pre-Production"/>
             <category term="Esports Kiosk"/>
 
-        <updated>2022-01-25T20:42:59+00:00</updated>
+        <updated>2022-01-26T16:55:33+00:00</updated>
             <summary>
                 <![CDATA[
                     I have conducted wider and focused initial research and identified key features, means of interactivity, sorts of assets I would need. I have also set out and determined the structure and layout of my reimagination of the Rocket League Esports website, in response to the&hellip;
@@ -66,9 +35,12 @@
 <p>In the above I have laid out two high-traffic slides that will be implemented as part of my kiosk and reimagination of the Rocket League Esports website. I used boxes with crosses to denote images, and lines to denote text/copy. I have also included buttons and other icons and annotations to the side of the wireframe to elaborate on features.</p>
 <p>It was particularly quick to produce these two wireframes, thus proving their efficacy in terms of an efficient pre-production workflow and cycle. I was able to include the key details surrounding layout and features with ease.</p>
 <h2>Visualisation diagram</h2>
-<p>Visualisation diagrams as a pre-production document could be considered an evolution upon a wireframe. It still demonstrates the desired layout and design, and includes more detail, including the typeface and colours I'm wanting to use. They are a lot closer to how the final product will look, but are still relatively quick to produce.</p>
+<p>Visualisation diagrams as a pre-production document could be considered an evolution upon a wireframe. It still demonstrates the desired layout and design, and includes more detail, of the specific design elements I'm wanting to use. They are a lot closer to how the final product will look, but are still relatively quick to produce.</p>
 <p>I have taken the two wireframes I already produced and have progressed them into a visualisation diagram.</p>
-<p class="msg msg--info">Visualisation diagrams are still being worked on</p>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/4/Annotated-Visualisation-Diagram.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/4/responsive/Annotated-Visualisation-Diagram-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Annotated-Visualisation-Diagram-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Annotated-Visualisation-Diagram-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Annotated-Visualisation-Diagram-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Annotated-Visualisation-Diagram-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Annotated-Visualisation-Diagram-2xl.png 1600w"  alt="" width="8021" height="3144"></figure>
+<h4>No annotations</h4>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/4/Visualisation-Diagram-1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-1-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-1-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-1-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-1-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-1-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-1-2xl.png 1600w"  alt="" width="3556" height="2000"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/4/Visualisation-Diagram-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-2-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-2-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-2-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-2-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-2-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/4/responsive/Visualisation-Diagram-2-2xl.png 1600w"  alt="" width="3556" height="2000"></figure>
 <h2>Perspective project approach</h2>
 <p>I have clearly demonstrated my <strong>strengths </strong>in the creation of my last two pre-production documents, two wireframes and visualisation diagrams. I have consolidated my creative direction that I set out initially with my mind map and mood boards and developed with my focused research and consideration of structure and layout.</p>
 <p>It would have been <strong>even better if </strong>I created more wireframes and visualisation diagrams to aid my efforts towards the production and post-production milestones. That said, though, it is important to consider the significance of time management when responding to a brief, and I believe I achieved a substantial amount with the sessions I dedicated to pre-production.</p>
@@ -158,7 +130,7 @@
             <category term="Pre-Production"/>
             <category term="Esports Kiosk"/>
 
-        <updated>2022-01-24T19:52:32+00:00</updated>
+        <updated>2022-01-27T22:06:40+00:00</updated>
             <summary>
                 <![CDATA[
                     I am having to respond to a brief pertaining to the creation of an interactive esports product, and am doing so by reimagining an existing product. Specifically, I wish to recreate an esports website for a popular competitive gaming league, adapting it for a different&hellip;
@@ -171,7 +143,7 @@
 <p>In my response to the brief, I will be documenting my progress with this blog that you are reading. Setting short term and long term goals and targets will be critical to the successful creation of my product.</p>
 <h2>Mind map</h2>
 <p>Visualising a plethora of thoughts and concepts is easily done with the use of a mind map. By using labels, nodes, and sub-nodes, a multitude of ideas can be collated on a single page and I have harnessed the flexibility of mind maps to present my initial ideas on how I intend to respond to the brief. I am already set on reworking a pre-existing product to produce an interactive kiosk.</p>
-<p class="msg msg--info">Mind map is on paper, in my CMP folder. This will be updated at a later date.</p>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/1/mindmap.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-xs.PNG 300w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-sm.PNG 480w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-md.PNG 768w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-lg.PNG 1024w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-xl.PNG 1360w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-2xl.PNG 1600w"  alt="" width="1091" height="829"></figure>
 <h2>Mood boards</h2>
 <p>I compiled a large variety of esports material from numerous sources on the Internet to produce three initial mood boards. These cover the common themes of games with competitive and official esports series, examples of various esports organisation logos, and a plethora of pre-existing esports website.</p>
 <p>In producing these mood boards, I am able to establish a visual and creative direction for the project. I intend to adapt an esports website into a kiosk which would be featured at an esports event and/or exhibition for the series. While I'm still undecided on the game, I'm leaning towards Rocket League, having investigated the various options for competitive gameplay and being a regular player of the game.</p>
@@ -181,7 +153,7 @@
 <h2>Wider research</h2>
 <p>It is important to conduct presentable wider research into other products that may hold some relevance to me when I am creating a product in response to the brief. Having already investigated the variety of games with options for competitive gameplay on offer, I have decided to target my research towards three pre-existing interactive products.</p>
 <p>I have examined the Rocket League Esports, F1 Esports, and Valorant Esports websites, looking for common themes and shared codes and conventions. I can see what specific terminology they employ and that I will need to replicate, as well as key features and consistent inclusions, particularly in terms of interactivity, that would be beneficial to include when I choose to reimagine one of these products.</p>
-<p class="msg msg--info">Wider research document being worked on</p>
+<p>Document: <a href="https://drive.google.com/file/d/1ZOXY2N_nV_XEz4yMTh6Uay4EriD8Hvsf/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">https://drive.google.com/file/d/1ZOXY2N_nV_XEz4yMTh6Uay4EriD8Hvsf/view?usp=sharing</a></p>
 <h2>Perspective project approach</h2>
 <p>To conclude (the majority of) my blog entries, I will ensure that I maintain a perspective approach to my response to the brief. In doing so, I will identify strengths and weaknesses, as well as my short term and long term goals and targets.</p>
 <p><strong>Strengths </strong>include my establishment of the common themes and codes of conventions that are shared across pre-existing interactive products relevant to the esports and gaming industry. I have identified key features and means of interactivity that I will be able to consider and bring forward to my response to the brief.</p>
