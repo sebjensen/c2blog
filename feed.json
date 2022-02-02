@@ -10,6 +10,46 @@
     },
     "items": [
         {
+            "id": "https://sebjensen.github.io/c2blog/animations-interactive-features.html",
+            "url": "https://sebjensen.github.io/c2blog/animations-interactive-features.html",
+            "title": "Animations / Interactive Features",
+            "author": {
+                "name": "Seb Jensen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T20:06:30+00:00",
+            "date_modified": "2022-02-02T20:06:30+00:00"
+        },
+        {
+            "id": "https://sebjensen.github.io/c2blog/using-the-master-slide.html",
+            "url": "https://sebjensen.github.io/c2blog/using-the-master-slide.html",
+            "title": "Using the master slide",
+            "summary": "Introduction Perspective project approach",
+            "content_html": "<p>Introduction</p>\n<h2>Perspective project approach</h2>",
+            "author": {
+                "name": "Seb Jensen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T20:05:56+00:00",
+            "date_modified": "2022-02-02T20:05:56+00:00"
+        },
+        {
+            "id": "https://sebjensen.github.io/c2blog/creating-assets.html",
+            "url": "https://sebjensen.github.io/c2blog/creating-assets.html",
+            "title": "Creating assets",
+            "summary": "Introduction Perspective project approach",
+            "content_html": "<p>Introduction</p>\n<h2>Perspective project approach</h2>",
+            "author": {
+                "name": "Seb Jensen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-02T20:05:39+00:00",
+            "date_modified": "2022-02-02T20:05:39+00:00"
+        },
+        {
             "id": "https://sebjensen.github.io/c2blog/collecting-images-videos-audio.html",
             "url": "https://sebjensen.github.io/c2blog/collecting-images-videos-audio.html",
             "title": "Collecting images, videos, audio",

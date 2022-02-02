@@ -3,12 +3,66 @@
     <title>Seb Jensen - C2B</title>
     <link href="https://sebjensen.github.io/c2blog/feed.xml" rel="self" />
     <link href="https://sebjensen.github.io/c2blog" />
-    <updated>2022-02-01T21:11:41+00:00</updated>
+    <updated>2022-02-02T20:06:30+00:00</updated>
     <author>
         <name>Seb Jensen</name>
     </author>
     <id>https://sebjensen.github.io/c2blog</id>
 
+    <entry>
+        <title>Animations / Interactive Features</title>
+        <author>
+            <name>Seb Jensen</name>
+        </author>
+        <link href="https://sebjensen.github.io/c2blog/animations-interactive-features.html"/>
+        <id>https://sebjensen.github.io/c2blog/animations-interactive-features.html</id>
+
+        <updated>2022-02-02T20:06:30+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Using the master slide</title>
+        <author>
+            <name>Seb Jensen</name>
+        </author>
+        <link href="https://sebjensen.github.io/c2blog/using-the-master-slide.html"/>
+        <id>https://sebjensen.github.io/c2blog/using-the-master-slide.html</id>
+
+        <updated>2022-02-02T20:05:56+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Introduction Perspective project approach
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Introduction</p>
+<h2>Perspective project approach</h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Creating assets</title>
+        <author>
+            <name>Seb Jensen</name>
+        </author>
+        <link href="https://sebjensen.github.io/c2blog/creating-assets.html"/>
+        <id>https://sebjensen.github.io/c2blog/creating-assets.html</id>
+
+        <updated>2022-02-02T20:05:39+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Introduction Perspective project approach
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Introduction</p>
+<h2>Perspective project approach</h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Collecting images, videos, audio</title>
         <author>
