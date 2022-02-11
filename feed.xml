@@ -3,12 +3,122 @@
     <title>Seb Jensen - C2B</title>
     <link href="https://sebjensen.github.io/c2blog/feed.xml" rel="self" />
     <link href="https://sebjensen.github.io/c2blog" />
-    <updated>2022-02-03T19:22:29+00:00</updated>
+    <updated>2022-02-11T20:15:19+00:00</updated>
     <author>
         <name>Seb Jensen</name>
     </author>
     <id>https://sebjensen.github.io/c2blog</id>
 
+    <entry>
+        <title>Final Evaluation</title>
+        <author>
+            <name>Seb Jensen</name>
+        </author>
+        <link href="https://sebjensen.github.io/c2blog/final-evaluation.html"/>
+        <id>https://sebjensen.github.io/c2blog/final-evaluation.html</id>
+            <category term="Post-Production"/>
+            <category term="Esports Kiosk"/>
+
+        <updated>2022-02-11T18:40:43+00:00</updated>
+            <summary>
+                <![CDATA[
+                    To conclude my work on this project, I produced a final evaluation considering all aspects of the product's development. In it I detail: You can view it here: https://drive.google.com/file/d/1-4vOVfDCxTibJG3a0_R-jvL9LtJWP1Gp/view?usp=sharing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To conclude my work on this project, I produced a final evaluation considering all aspects of the product's development. In it I detail:</p>
+<ul>
+<li>Target audience of the source and my kiosk</li>
+<li>My working practices and how they would compare to a professional workplace</li>
+<li>Key features of the source product and how I replicated them</li>
+<li>How my product compares to the source</li>
+<li>How I developed and applied media production skills and techniques</li>
+<li>My evaluative process during and at the end of the product's development</li>
+<li>My strengths and weaknesses</li>
+<li>My goals and targets for future development</li>
+</ul>
+<p>You can view it here: <a href="https://drive.google.com/file/d/1-4vOVfDCxTibJG3a0_R-jvL9LtJWP1Gp/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1-4vOVfDCxTibJG3a0_R-jvL9LtJWP1Gp/view?usp=sharing</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Exporting / Testing / User feedback</title>
+        <author>
+            <name>Seb Jensen</name>
+        </author>
+        <link href="https://sebjensen.github.io/c2blog/exporting-testing-user-feedback.html"/>
+        <id>https://sebjensen.github.io/c2blog/exporting-testing-user-feedback.html</id>
+            <category term="Post-Production"/>
+            <category term="Esports Kiosk"/>
+
+        <updated>2022-02-11T20:15:19+00:00</updated>
+            <summary>
+                <![CDATA[
+                    I am now confident that my interactive kiosk product is ready to be exported and then tested. Exporting is a simple task with most consideration needing to go towards the file format. This, though, is still straightforward and I have opted to use the .ppsx&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am now confident that my interactive kiosk product is ready to be exported and then tested. Exporting is a simple task with most consideration needing to go towards the file format. This, though, is still straightforward and I have opted to use the .ppsx (PowerPoint Slide Show) file format. It is important to mention that this is a proprietary format and any device that I wish to run my product on will require PowerPoint. The principle difference lies in how a .ppsx file launches directly to the slideshow view when opened, which is what I want as it makes setup quicker.</p>
+<h2>Testing</h2>
+<p>Using Google Sheets, I created a spreadsheet where I could lay out all of my product's functional and non-functional requirements. There was only one criterion in terms of non-functional testing as PowerPoint handles much of the product's behind-the-scenes operation. However, I have identified all the necessary components for the correct operation of my product at the user's end and categorised these by the slide they were relevant to.</p>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/11/testing.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/11/responsive/testing-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/testing-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/testing-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/testing-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/testing-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/testing-2xl.jpg 1600w"  alt="" width="1529" height="704"></figure>
+<p>I recognised that not everything would work on the first time building in an additional section to the right for an improved version where required. The majority of the specification was satisfied when testing the first time. However, there were a few criteria that was not met and I was then able to promptly rectify the issues. In creating this checklist I was able to quickly see what was not working and resolve this efficiently after running through the first time.</p>
+<h2>User feedback</h2>
+<p>After conducting my own testing, I invited my peers to get involved and share constructive criticism in terms of the user experience and their thoughts. This was a great process as it allowed me to gather qualitative data; I have recognised that checking against set criteria is only part of the equation - ultimately, it is real people who will be using the product and their preferences have to be accounted for, too.</p>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/11/user-feedback.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-2xl.jpg 1600w"  alt="" width="919" height="700"></figure>
+<p>A lot of this constructive criticism pertained to the navigability of my interactive kiosk product. Thankfully, all the content was adequate, but it was the menu slide in particular that would benefit most from some additional work. I was then able to make the changes that I could in the same session. For example, a quick fix in particular was the addition of a button to the homepage as well as the inclusion of the social media buttons in the menu slide, too, as you can see below.</p>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/11/user-feedback-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-2-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-2-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-2-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-2-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-2-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/11/responsive/user-feedback-2-2xl.jpg 1600w"  alt="" width="459" height="303"></figure>
+<p>Due to the inherent limitations of building a kiosk with PowerPoint as its 'engine', I was not able to act upon the feedback that suggested I have the kiosk reset when it is idle. While this might have been possible by duplicating the splash screen side and setting each slide to automatically advance after X seconds, this would have increased the file size dramatically, potentially slowing down the product's operation. I would also have to adjust all of the internal hyperlinks set up on buttons as they would then start linking to the wrong pages. This just was not practical to act upon at this stage in the development cycle.</p>
+<h2>Perspective project approach</h2>
+<p>I am pleased with my rigorous checklist-based and user-oriented testing, and I think this was my main <strong>strength </strong>from this session. Not only have I compared the product's functionality to a specification full of criteria that I set out, but I also was able to gather valuable feedback from my peers. I have been able to appreciate that user experience cannot be tested with mere tick boxes.</p>
+<p>It would have been <strong>even better if </strong>I was able to collect even more feedback on the user experience from others in my class. I would then have been able to further aggregate comments and begin to prioritise the actions that I should undertake. For example, if a large group all mention one or two things, it would make sense for said things to be addressed first. I was still able to reference my feedback to make improvements as part of the design process, though.</p>
+<p>This concludes the development of my interactive kiosk product. I believe I have been successful in reworking an existing product, in this case the Rocket League Esports website, for a new audience. My <strong>next steps </strong>for the next session/s is to write up a full, final evaluation considering all aspects of the process. In it, I also hope to outline some targets and goals for future development of this project and beyond.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Website layout and design</title>
+        <author>
+            <name>Seb Jensen</name>
+        </author>
+        <link href="https://sebjensen.github.io/c2blog/website-layout-and-design.html"/>
+        <id>https://sebjensen.github.io/c2blog/website-layout-and-design.html</id>
+            <category term="Post-Production"/>
+            <category term="Esports Kiosk"/>
+
+        <updated>2022-02-11T19:49:53+00:00</updated>
+            <summary>
+                <![CDATA[
+                    For the full, interactive version of the following, please view https://www.figma.com/file/IwcVXL7Lh0UIG3TJfDSiDt/C2B%3A-Post-Production?node-id=0%3A1 With the annotations I discuss the layout and the various choices I made. For example, consistently having the menu button and "Championship Series" badge in the same places in the header to ensure continuity.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>For the full, interactive version of the following, please view <a href="https://www.figma.com/file/IwcVXL7Lh0UIG3TJfDSiDt/C2B%3A-Post-Production?node-id=0%3A1" target="_blank" rel="nofollow noopener noreferrer">https://www.figma.com/file/IwcVXL7Lh0UIG3TJfDSiDt/C2B%3A-Post-Production?node-id=0%3A1</a></p>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-a1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a1-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a1-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a1-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a1-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a1-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a1-2xl.jpg 1600w"  alt="" width="1108" height="773"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-a2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a2-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a2-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a2-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a2-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a2-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a2-2xl.jpg 1600w"  alt="" width="1033" height="612"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-a3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a3-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a3-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a3-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a3-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a3-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a3-2xl.jpg 1600w"  alt="" width="1204" height="778"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-a4.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a4-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a4-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a4-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a4-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a4-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-a4-2xl.jpg 1600w"  alt="" width="1093" height="670"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-b1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b1-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b1-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b1-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b1-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b1-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b1-2xl.jpg 1600w"  alt="" width="1003" height="748"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-b2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b2-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b2-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b2-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b2-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b2-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b2-2xl.jpg 1600w"  alt="" width="989" height="572"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-b3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b3-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b3-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b3-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b3-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b3-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b3-2xl.jpg 1600w"  alt="" width="992" height="596"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-b4.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b4-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b4-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b4-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b4-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b4-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b4-2xl.jpg 1600w"  alt="" width="1001" height="581"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-b5.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b5-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b5-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b5-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b5-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b5-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b5-2xl.jpg 1600w"  alt="" width="1003" height="585"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-b6.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b6-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b6-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b6-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b6-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b6-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b6-2xl.jpg 1600w"  alt="" width="1005" height="584"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/10/pprod-b7.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b7-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b7-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b7-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b7-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b7-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/10/responsive/pprod-b7-2xl.jpg 1600w"  alt="" width="1005" height="585"></figure>
+<p>With the annotations I discuss the layout and the various choices I made. For example, consistently having the menu button and "Championship Series" badge in the same places in the header to ensure continuity. I also detail my use of colour and font to engage the user. I demonstrate how I have styled different elements to establish a visual hierarchy, too.</p>
+<p>Navigation, as you can see, is all within a single slide. This means that I can make the buttons larger and easier to interact with for a kiosk-based audience. There are also hyperlinked buttons elsewhere in the product, linking to external resources and also taking the user to other slides. The extensive usage of various interactive features makes for an engaging experience.</p>
+<h2>Perspective project approach</h2>
+<p>I believe that I have had some <strong>success </strong>in reworking my chosen existing product, the Rocket League Esports website, and adapting it for a different audience. In this case, the switch is primarily from a website-based audience online to a kiosk-based audience. The main potential use case for my product would be in an exhibition hall at an esports-themed convention.</p>
+<p>I think my user interface and experiences could have been <strong>even better if </strong>I more carefully considered the implementation of white space and usage of colour. While the bright, warm oranges and yellow/gold colours are engaging and captivating, the low contrast may impact the experience for users who can see less well or are less able to differentiate colours, for example. The layout is still quite cluttered, too, as you can see.</p>
+<p>Now that I have combined my assets, my <strong>short-term </strong>goal pertains to exporting my interactive kiosk product. I intend to create a checklist of sorts that I can run through to identify any issues once I have exported it. After these checks, I will let my peers try my kiosk and leave feedback on the user experience.</p>
+<p>My <strong>long-term goal </strong>is largely to start considering my final evaluation. I will review all of the comments I have left at the end of my blog entries as part of me taking a perspective approach to developing my project. I'll need to reference how the audience has changed and compare it back to the Rocket League Esports website.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Animations / Interactive features</title>
         <author>
@@ -387,82 +497,6 @@
 <p><strong>Weaknesses </strong>include the limited sample of key assets I have identified. However, I believe I have a satisfactory selection of assets that would be significant in my response to the brief. It is important to note that the management of both time and effort is paramount in maintaining an effective and efficient workflow.</p>
 <p>My <strong>short-term goal </strong>now concerns the production of wireframes and visualisation diagrams, and I intend to achieve this goal in the next session. This will conclude my pre-production process upon completion.</p>
 <p>In terms of <strong>long-term goals</strong>, my focus will now begin to shift to the production process, with consideration for the post-production process that will follow it. I need to round up my pre-production work and efforts before beginning to collect and organise the assets I intend to use as well as creating new assets that I need.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Focused research / Identifying key features</title>
-        <author>
-            <name>Seb Jensen</name>
-        </author>
-        <link href="https://sebjensen.github.io/c2blog/focused-research-identifying-key-features.html"/>
-        <id>https://sebjensen.github.io/c2blog/focused-research-identifying-key-features.html</id>
-            <category term="Pre-Production"/>
-            <category term="Esports Kiosk"/>
-
-        <updated>2022-01-24T20:18:53+00:00</updated>
-            <summary>
-                <![CDATA[
-                    I believe the scope of the Rocket League Esports website could be easily reimagined in the format of a kiosk as to adapt it for a different audience. Consequently, it is necessary that I conduct further, focused research on said interactive esports product so that&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I believe the scope of the Rocket League Esports website could be easily reimagined in the format of a kiosk as to adapt it for a different audience. Consequently, it is necessary that I conduct further, focused research on said interactive esports product so that I can adequately rework its features and elaborate upon it professionally. In doing so, I would also identify the key features of the website, and I will then be able to reference back to this developed research and product specification during the production and post-production process.</p>
-<p>I detailed a brief outline of what I would like to achieve (setting targets for myself). I also identified the key colour scheme, some media assets I would need to utilise, and listed the key features of the Rocket League Esports homepage. The product of this session's efforts are embedded below:</p>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/2/fr1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr1-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr1-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr1-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr1-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr1-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr1-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/2/fr2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr2-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr2-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr2-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr2-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr2-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr2-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/2/fr3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr3-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr3-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr3-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr3-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr3-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr3-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/2/fr4.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr4-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr4-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr4-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr4-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr4-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr4-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/2/fr5.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr5-xs.png 300w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr5-sm.png 480w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr5-md.png 768w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr5-lg.png 1024w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr5-xl.png 1360w ,https://sebjensen.github.io/c2blog/media/posts/2/responsive/fr5-2xl.png 1600w"  alt="" width="1920" height="1080"></figure>
-<h2>Perspective project approach</h2>
-<p><strong>Strengths </strong>include my identification of key interactive features, such as the fan rewards gallery, that I would be able to translate into a kiosk format by using the trigger animation functionality included in PowerPoint. This will ensure a more effective and efficient design workflow as I will already have detailed the content I intend to include.</p>
-<p><strong>Weaknesses </strong>include the limited detailing of media that I would need to include when I reimagine the Rocket League Esports homepage. While I have mentioned the logo and two videos to include, there is little mention of what images I could include and modify to create my own assets.</p>
-<p>My <strong>short-term goal </strong>is to identify the specific assets or sorts of assets that I would need to collect and collate to be used in my response to the brief. This rectifies the primary weakness of this session that I just detailed.</p>
-<p>My <strong>long-term goal </strong>is to establish the structure and layout of the kiosk, supporting this with wireframe documents and, subsequently, the creation of various visualisation diagrams to support my production and post-production milestones.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mind map / Mood board / Wider research</title>
-        <author>
-            <name>Seb Jensen</name>
-        </author>
-        <link href="https://sebjensen.github.io/c2blog/mind-map-mood-board-wider-research.html"/>
-        <id>https://sebjensen.github.io/c2blog/mind-map-mood-board-wider-research.html</id>
-            <category term="Pre-Production"/>
-            <category term="Esports Kiosk"/>
-
-        <updated>2022-01-27T22:06:40+00:00</updated>
-            <summary>
-                <![CDATA[
-                    I am having to respond to a brief pertaining to the creation of an interactive esports product, and am doing so by reimagining an existing product. Specifically, I wish to recreate an esports website for a popular competitive gaming league, adapting it for a different&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I am having to respond to a brief pertaining to the creation of an interactive esports product, and am doing so by reimagining an existing product. Specifically, I wish to recreate an esports website for a popular competitive gaming league, adapting it for a different audience by reworking it into a new kiosk format.</p>
-<p>To develop my product I will begin initially with various pre-production processes and procedures to conduct ideation. This includes the creation of a mind map, various mood boards, and researching pre-existing products that I may wish to reimagine. These will orient myself adequately for the production and post-production milestones that will follow. I will then need to be evaluative and critical of my work.</p>
-<p>In my response to the brief, I will be documenting my progress with this blog that you are reading. Setting short term and long term goals and targets will be critical to the successful creation of my product.</p>
-<h2>Mind map</h2>
-<p>Visualising a plethora of thoughts and concepts is easily done with the use of a mind map. By using labels, nodes, and sub-nodes, a multitude of ideas can be collated on a single page and I have harnessed the flexibility of mind maps to present my initial ideas on how I intend to respond to the brief. I am already set on reworking a pre-existing product to produce an interactive kiosk.</p>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/1/mindmap.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-xs.PNG 300w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-sm.PNG 480w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-md.PNG 768w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-lg.PNG 1024w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-xl.PNG 1360w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/mindmap-2xl.PNG 1600w"  alt="" width="1091" height="829"></figure>
-<h2>Mood boards</h2>
-<p>I compiled a large variety of esports material from numerous sources on the Internet to produce three initial mood boards. These cover the common themes of games with competitive and official esports series, examples of various esports organisation logos, and a plethora of pre-existing esports website.</p>
-<p>In producing these mood boards, I am able to establish a visual and creative direction for the project. I intend to adapt an esports website into a kiosk which would be featured at an esports event and/or exhibition for the series. While I'm still undecided on the game, I'm leaning towards Rocket League, having investigated the various options for competitive gameplay and being a regular player of the game.</p>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/1/c2b-01.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-01-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-01-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-01-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-01-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-01-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-01-2xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/1/c2b-02.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-02-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-02-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-02-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-02-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-02-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-02-2xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://sebjensen.github.io/c2blog/media/posts/1/c2b-03.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-03-xs.jpg 300w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-03-sm.jpg 480w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-03-md.jpg 768w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-03-lg.jpg 1024w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-03-xl.jpg 1360w ,https://sebjensen.github.io/c2blog/media/posts/1/responsive/c2b-03-2xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
-<h2>Wider research</h2>
-<p>It is important to conduct presentable wider research into other products that may hold some relevance to me when I am creating a product in response to the brief. Having already investigated the variety of games with options for competitive gameplay on offer, I have decided to target my research towards three pre-existing interactive products.</p>
-<p>I have examined the Rocket League Esports, F1 Esports, and Valorant Esports websites, looking for common themes and shared codes and conventions. I can see what specific terminology they employ and that I will need to replicate, as well as key features and consistent inclusions, particularly in terms of interactivity, that would be beneficial to include when I choose to reimagine one of these products.</p>
-<p>Document: <a href="https://drive.google.com/file/d/1ZOXY2N_nV_XEz4yMTh6Uay4EriD8Hvsf/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">https://drive.google.com/file/d/1ZOXY2N_nV_XEz4yMTh6Uay4EriD8Hvsf/view?usp=sharing</a></p>
-<h2>Perspective project approach</h2>
-<p>To conclude (the majority of) my blog entries, I will ensure that I maintain a perspective approach to my response to the brief. In doing so, I will identify strengths and weaknesses, as well as my short term and long term goals and targets.</p>
-<p><strong>Strengths </strong>include my establishment of the common themes and codes of conventions that are shared across pre-existing interactive products relevant to the esports and gaming industry. I have identified key features and means of interactivity that I will be able to consider and bring forward to my response to the brief.</p>
-<p><strong>Weaknesses </strong>include the limited sample size for the wider research that I conducted, compared to the wide variety of media that I included while producing my mood boards. However, I believe that three pre-existing media products will still serve as a valuable reference for when I reimagine a pre-existing interactive product.</p>
-<p>My <strong>short-term goal</strong>, specifically for the next session, is to consolidate my initial research by specifically focusing on the key features of the Rocket League Esports website. I have opted to rework said website, adapting it for a different audience by reformatting it into a kiosk experience.</p>
-<p>As for a <strong>long-term target</strong>, I am looking to conduct thorough research into the Rocket League Esports website, which includes beginning to identify external assets that I might wish to utilise. I intend to reinforce my pre-production work with extra documents, such as wireframes and visualisation diagrams, as well as consider the structure and layout of my reimagined product.</p>
             ]]>
         </content>
     </entry>
